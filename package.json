@@ -1,0 +1,24 @@
+{
+  "name": "unit-tests-practice",
+  "version": "1.0.0",
+  "description": "Using AAA patterns to perform unit testing with Jest",
+  "main": "stringLength.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IndieCoderMM/unit-tests-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IndieCoderMM/unit-tests-practice/issues"
+  },
+  "homepage": "https://github.com/IndieCoderMM/unit-tests-practice#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
